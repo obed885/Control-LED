@@ -1,3 +1,3 @@
 # Control LEDs
 
-[▶ Watch the Control LED Demo](https://github.com/obed885/Control-LED/blob/bfcfbf00096c172c26e4ac0d36d7636bc8c980ab/Control%20led.mp4)
+![image alt](https://github.com/obed885/Control-LED/blob/93b7690b6811b0f055963962118129391dd8ac16/Control%20LEDs.jpeg)
